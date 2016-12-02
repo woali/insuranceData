@@ -1,0 +1,2 @@
+# insuranceData
+R package insuranceData
